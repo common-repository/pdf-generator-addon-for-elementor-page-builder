@@ -1,0 +1,487 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF Generator Addon for Elementor Page "
+"Builder-1.7.0\n"
+"POT-Creation-Date: 2024-10-01 02:35+0530\n"
+"PO-Revision-Date: 2021-01-13 20:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: RedefiningTheWeb(developer@redefiningtheweb.com)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-pdf-generator-addon-for-elementor-page-builder-admin.php:132
+msgid "Elementor PDF Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:101
+msgid "PDF Generator Addon for Elementor"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:103
+msgid "Home"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:104
+msgid "Basic Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:105
+msgid "PDF Header Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:106
+msgid "PDF Footer Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:107
+msgid "PDF CSS Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:108
+msgid "PDF WaterMark Setting"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:110
+msgid ""
+"* All values which you enter like top-margin, font-size etc. are in "
+"<strong>mm</strong> not in px"
+msgstr ""
+
+#: admin/partials/pdf-generator-addon-for-elementor-page-builder-admin-display.php:147
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:8
+msgid "Hide Page Title"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:10
+msgid "Check it if you want to hide page title"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:14
+msgid "Include Featured Image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:16
+msgid "Check it if you want to show featured image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:20
+msgid "Show Post Date"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:22
+msgid "Check it if you want to show date of post"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:26
+msgid "Show Post Tags"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:28
+msgid "Check it if you want to show tag list of post"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:32
+msgid "Show Post Category List"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:34
+msgid "Check it if you want to show category of the post"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:38
+msgid "PDF File Name"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:42
+msgid "Post Name"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:44
+msgid "Post ID"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:49
+msgid "Select what will be the name of the generated PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:53
+msgid "RTL Support"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:56
+msgid ""
+"Check it if you want generate PDF in Arabic or languages which start "
+"from Right Align"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:60
+msgid "Allowed Post Types"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:75
+msgid "Choose on which post type you want to generate PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:79
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:83
+msgid "Select color for generated PDF file"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:87
+msgid "Background Image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:93
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:91
+msgid "Upload/Add image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:94
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:92
+msgid "Remove image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:95
+msgid "Select background image for generated PDF file"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:99
+msgid "Show PDF Button"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:110
+msgid "Choose the page where you want show Download PDF button"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:114
+msgid "Disable Copy"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_basic.php:117
+msgid ""
+"Check it if you want to disable copying of content from the generated "
+"PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:315
+msgid "PDF Page Size"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:328
+msgid "Choose the size of PDF page"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:332
+msgid "PDF Page Orientation"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:336
+msgid "Portrait"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:340
+msgid "Landscape"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:342
+msgid "Choose your required page Orientation of PDF."
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:346
+msgid "Body Top Margin"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:348
+msgid ""
+"Enter your required top margin for main PDF body (By default 37). "
+"Minimum 37 required otherwise will not work"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:352
+msgid "Body Left Margin"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:354
+msgid "Enter your required left margin for main PDF body (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:358
+msgid "Body Right Margin"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:360
+msgid ""
+"Enter your required right margin for main PDF body (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:364
+msgid "Body Font Family"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:376
+msgid "Choose the font family for the generated PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:380
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:383
+msgid "Enter your required font size for Body of the PDF (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:388
+msgid "PDF Custom CSS"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_css.php:391
+msgid "Enter your required custom CSS for PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:7
+msgid "Remove Footer"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:10
+msgid "Check it if you want to remove footer"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:18
+msgid "Footer HTML"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:33
+msgid "Footer Top Margin"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:35
+msgid "Enter your required top margin (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:39
+msgid "Footer Section Font"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:54
+msgid "Footer Section Font Size"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:58
+msgid "Enter your required font size for PDF Footer (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:63
+msgid "Hide Page Number"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_footer.php:66
+msgid "Check it if you want to hide page number in PDF Footer"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:7
+msgid "Remove Header"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:10
+msgid "Check it if you want to remove header"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:18
+msgid "Header HTML"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:33
+msgid "Header Top Margin"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:35
+msgid "Enter your required top margin (By default 7)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:39
+msgid "Header Section Font"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:54
+msgid "Header Section Font Size"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_header.php:58
+msgid "Enter your required font size for PDF Header (By default 15)"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:7
+msgid "Watermark Text"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:13
+msgid "Check it if you want to show Watermark text"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:20
+msgid "Watermark Font"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:32
+msgid "Choose the font family of Watermark text"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:36
+msgid "Watermark Rotation"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:40
+msgid "Enter your required rotation (in degree) for Watermark text"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:44
+msgid "Watermark Text:"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:49
+msgid "Enter Watermark text which you want to show on PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:53
+msgid "Text Opacity"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:57
+msgid "Select the text opacity for Watermark"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:64
+msgid "Image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:70
+msgid "Check it if you want to show Watermark image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:76
+msgid "Image Opacity"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:79
+msgid "Select the image opacity for Watermark"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:83
+msgid "Watermark Image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:94
+msgid "Choose your Watermark Image which you want to show on PDF"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:99
+msgid "Image Dimension"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:110
+msgid "Choose the dimension of Watermark image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:118
+msgid "Image Width"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:122
+msgid "Set the Width of Watermark image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:126
+msgid "Image Height"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:130
+msgid "Set the Height of Watermark image"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:141
+msgid "Integer Value"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:152
+msgid "Image Position"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:169
+msgid "Horizontal Position"
+msgstr ""
+
+#: admin/partials/rtw_pgaepb_tabs/pgaepb_watermark.php:175
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:13
+msgid "PDF - Generator"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:29
+msgid "PDF Settings"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:36
+msgid "PDF Button Width"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:38
+msgid "Enter PDF Button Width"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:46
+msgid "PDF Button Height"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:48
+msgid "Enter PDF Button Height"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:56
+msgid "PDF Button Icon"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:67
+msgid "Exclude HTML Class"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:69
+msgid "For multiple classes use commma"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:76
+msgid "Exclude HTML ID"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:78
+msgid "For multiple IDs use commma"
+msgstr ""
+
+#: includes/elementor_pdf_generator.php:194
+msgid "Download PDF"
+msgstr ""
+
+#: public/class-pdf-generator-addon-for-elementor-page-builder-public.php:128
+msgid "Some Thing Went Wrong! Please Try Again"
+msgstr ""
+
+#: public/class-pdf-generator-addon-for-elementor-page-builder-public.php:285
+msgid "Categories : "
+msgstr ""

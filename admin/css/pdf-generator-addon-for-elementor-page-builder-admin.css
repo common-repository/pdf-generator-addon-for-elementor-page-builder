@@ -1,0 +1,342 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.display_none {
+    display:none;
+}
+
+/* PDFMentor Pro Banner */
+.rtw_pgaepb_pro_banner {
+    margin: 1rem;
+}
+.rtw_pgaepb_pro_banner img {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+}
+/* PDFMentor Pro Banner */
+
+/* Home Tab Content - CSS Start*/
+.rtw_home_tab_div
+{
+    padding: 25px;
+    position: relative;
+}
+.rtw_home_wrapper
+{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    height: auto;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.rtw_home_wrapper .rtw_home_inner
+{
+    max-width: 70em;
+    height: auto;
+    flex: 1 1 70%;
+    margin: auto;
+}
+.rtw_home_block_wrapper
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: -10px;
+    width: 100%;
+}
+.rtw_home_block_wrapper .rtw_home_block
+{
+    background-color: #fff;
+    flex: 1 1 auto;
+    min-width: 250px;
+    width: 300px;
+    margin: 10px 10px 25px 10px;
+    box-shadow: 0px 8px 38px 0px rgb(16 16 16 / 7%);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.rtw_home_block_header
+{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 30px 0 0 25px;
+}
+.rtw_home_block_header_icon
+{
+    height: 65px;
+    width: 65px;
+    background: #f3edff;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.rtw_home_block_header_icon img
+{
+    width: 46px;
+    height: 46px;
+}
+.rtw_home_title
+{
+    margin: 0.7em 0 1em;
+    padding: 0 1.26582em;
+    font-size: 15px;
+    font-weight: 600;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #333333;
+}
+.rtw_home_block_content
+{
+    overflow: hidden;
+    position: relative;
+    padding: 1em 1.5em 1.5em;
+    background-color: #fff;
+    padding-left: 85px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+.rtw_home_tab_div p
+{
+    font-size: 13px;
+    color: #707070;
+    margin: 0px 0 20px 0;
+    line-height: 21px;
+}
+.rtw_home_button
+{
+    font-size: 13px;
+    border-radius: 3px;
+    background-color: #1a1a1a;
+    background-image: linear-gradient(to left, #bfbfbf, #000000);
+    box-shadow: 4px 2px 5px rgb(0 0 0 / 50%);
+    color: #fff !important;
+    display: inline-block;
+    padding: 12px 22px;
+    text-decoration: none;
+    line-height: 1;
+    cursor: pointer;
+    user-select: none;
+}
+.rtw_more_block
+{
+    width: 100%;
+    background-color: #ffffff;
+    padding: 15px 30px;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 4px 2px 5px rgb(0 0 0 / 50%);
+}
+.rtw_more_info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rtw_more_info header {
+    display: flex;
+    align-items: center;
+}
+.rtw_more_title {
+    font-size: 16px;
+    margin-left: 10px; 
+}
+/* Home Tab Content - CSS End*/
+
+/* Offer Banner Popup */
+.rtw_sb_popup{
+    background: rgba(0,0,0,0.4);
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    z-index: 1;
+}
+.rtw_sb_popup *{
+    box-sizing: border-box;
+}
+.rtw_sb_close_icon{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: relative;
+    border:2px solid white;
+}
+.rtw_sb_close_icon:before,.rtw_sb_close_icon:after {
+    content: '';
+    position: absolute;
+    height: 10px;
+    width: 2px;
+    top: 3px;
+    right: 7px;
+    background: white;
+    transform: rotate(45deg);
+}
+.rtw_sb_close_icon:after {
+    transform: rotate(-45deg);
+}
+.rtw_sb_card{
+    position: relative;
+    height: 400px;
+    width: 560px;
+    background: linear-gradient(45deg, #211e1eeb, #d31b11d9);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 8px #796868;
+    font-family: sans-serif;
+}
+.rtw_sb_card_body {
+    color: white;
+    align-items: center;
+    padding: 2rem;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.rtw_sb_card_body h2{
+    font-size: 3rem;
+    line-height: normal;
+    color: white;
+    background: black;
+    padding: 10px;
+    text-align: center;
+    transform: skew( -9deg, -7deg );
+    margin-top: 4rem;
+}
+#rtw_sb_banner_button {
+    border: none;
+    background: white;
+    padding: 15px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+    box-shadow: 0px 0px 8px #f9f6f69c;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    margin-top: 4rem;
+}
+#rtw_sb_banner_button::before{
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    background:linear-gradient(45deg, #d31b11, #0d0d0f);
+    left: 0;
+    transition: all 0.5s ease-in-out;
+    top: 0;
+    border-radius: 35px;
+    z-index: -1;
+    opacity: 0;
+}
+#rtw_sb_banner_button:hover{
+    color: white;
+}
+#rtw_sb_banner_button:hover::before{
+    opacity: 1;
+    width: 100%;
+}
+.rtw_sb_card_label {
+    background: white;
+    padding: 10px 45px;
+    font-size: 13px;
+    position: absolute;
+    top: 35px;
+    left: -12px;
+}
+.rtw_sb_card_label label{
+    margin: 0;
+}
+.rtw_sb_card_label::before {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: -12px;
+    left: 0px;
+    border-bottom: 12px solid black;
+    border-left: 12px solid transparent;
+}
+.rtw_sb_card_label::after {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    right: -14px;
+    top: 0;
+    border-top: 19px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 14px solid #ffffff;
+}
+.rtw_sb_close_popup {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+.rtw_sb_price {
+    background: #ffc107;
+    padding: 5px 10px;
+    transform: skew( -9deg, -7deg );
+    width: 180px;
+    position: absolute;
+    right: 20px;
+    bottom: 140px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.rtw_sb_price span:nth-child(2) {
+    margin-left: 5px;
+    color: black;
+    font-size: 35px;
+}
+.rtw_sb_bottom_text {
+    font-size: 12px;
+    font-style: italic;
+    margin: 0;
+    /* font-weight: bold; */
+    text-align: right;
+    margin-top: 2rem;
+}
+.rtw_popper {
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+}
+@media(max-width:576px){
+    .rtw_sb_card{
+        width: 85%;
+    }
+    .rtw_sb_card_body h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    button{
+        margin-top: 5rem;
+    }
+}
+@media(max-width:400px){
+    .rtw_sb_card_body h2 {
+        font-size: 1.5rem;
+    }
+}
+/* Offer Banner Popup End */
+
+#adminmenu #toplevel_page_rtw_pgaepb div.wp-menu-image {
+    margin-top: 6px;
+}
+#adminmenu #toplevel_page_rtw_pgaepb a {
+    font-weight: bold;
+}
